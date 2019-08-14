@@ -1,16 +1,14 @@
 {
     "name": "ljjiong/demo",
-    "description": "a test composer project",
+    "description": "test",
     "type": "project",
-    "require": {
-        "houdunwang/hdphp": "*"
-    },
-    "license": "MIT",
+    "license": "mit",
     "authors": [
         {
-            "name": "ljjiong",
+            "name": "liujiajiong",
             "email": "1121309078@qq.com"
         }
     ],
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "require": {}
 }
